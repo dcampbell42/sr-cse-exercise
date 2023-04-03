@@ -10,7 +10,7 @@ const pageContent = [
     question:
       "Describe how you solved a challenge that one of your previous support teams faced. How did you determine your solution was successful?",
     answer:
-      "In previous employment, I stepped in to lead a team of support professionals. I quickly determined that we were lacking in proper means and methods of documenting our processes, disaster recovery steps, and day-to-day support actions. I quickly rolled out two system to help with this. First, I implemented a ticketing system for internal employees to use to request the support team's assistance. I also set up a knowledge base for our support team to use to consolidate truth to a single source and offer repeatable, pre-constructed answers for customers and coworkers.",
+      "In previous employment, I stepped in to lead a team of support professionals. I quickly determined that we were lacking in proper means and methods of documenting our processes, disaster recovery steps, and day-to-day support actions. I quickly rolled out two systems to help with this. First, I implemented a ticketing system for internal employees to use to request the support team's assistance. I also set up a knowledge base for our support team to use to consolidate truth to a single source and offer repeatable, pre-constructed answers for customers and coworkers.",
   },
   {
     id: 3,
