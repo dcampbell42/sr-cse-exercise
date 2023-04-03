@@ -31,7 +31,7 @@ const pageContent = [
     question:
       "Imagine a customer writes in, requesting help with the following question. Write a first response for triaging this case and helping them solve the issue:<br>Hi there, I keep getting a build error from Vercel saying that “/vercel/path0/dist/routes-manifest.json” couldn’t be found. Can you help me debug this?? I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. Your docs aren’t helpful.",
     answer:
-      "Hi there, Thank you for contacting Vercel Support. This error is often experienced when your build settings are not correct. Please make sure that your framework is selected on your Project Settings page. If your project's settings are being overridden, please make sure that you have the correct output directory and build command. Please let me if you have any questions",
+      "Hi there, thank you for contacting Vercel Support. This error is often experienced when your build settings are not correct. Please make sure that your framework is selected on your Project Settings page. If your project's settings are being overridden, please make sure that you have the correct output directory and build command. Please let me know if you have any questions",
   },
   {
     id: 6,
